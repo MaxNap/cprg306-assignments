@@ -50,6 +50,11 @@ export default function Home() {
             Week-9 Page
           </Link>
         </li>
+        <li>
+          <Link href="./week-10/" className={linkStyle}>
+            Week-10 Page
+          </Link>
+        </li>
       </ul>
     </main>
   );
